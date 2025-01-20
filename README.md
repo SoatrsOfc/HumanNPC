@@ -1,5 +1,4 @@
 ---
-
 HumanNPC Plugin ✨
 
 Description 📜
