@@ -1,4 +1,3 @@
----
 HumanNPC Plugin ✨
 
 Description 📜
@@ -49,10 +48,4 @@ Support for spawning different types of mobs (zombies, skeletons, etc.).
 More customization options for NPCs.
 
 
-
----
-
 Feel free to contribute and improve the plugin! 💪
-
-
----
